@@ -6,6 +6,7 @@ main{
     width: 1000px;
     max-width: 100%;
     margin: 0 auto;
+    background-color: white;
 }
 .top-banner{
     display: flex; 
@@ -53,4 +54,21 @@ h1{
 #about-top{
     margin-top: 90px;
     
+}
+.recipies{
+     text-align: center;
+}
+.youtube{
+    width: 800px;
+    height: 150px;
+    text-align: center;
+    
+    gap: 130px;
+    margin-top: 80px;
+    margin-left: 90px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 7px;
+}
+.position-item{
+    margin-top: 50px;
 }
